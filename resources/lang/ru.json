@@ -1,0 +1,10 @@
+{
+    "Whoops! Something went wrong.": "Упс! Что-то пошло не так.",
+    "validation.unique": "Такой аккаунт уже существует",
+    "validation.min.string": "Минимум 8 символов",
+    "pagination": {
+        "previous": "Назад",
+        "next": "Вперед"
+    }
+
+}
